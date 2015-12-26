@@ -1,0 +1,6 @@
+ <resources>
+    <!-- 人民币价格显示-数值型-->
+    <string name="priceDisplay_RMB_numericalValue">￥%1$d</string>
+    <!-- 人民币价格显示-字符型-->
+     <string name="priceDisplay_RMB_stringValue">￥%1$s</string>
+</resources>
